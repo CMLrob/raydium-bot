@@ -1,0 +1,20 @@
+[
+    {
+      "name": "SOL/USDC",
+      "amm_id": "6UeJ3GPaCFkCugFpvzUdfgEoU4wXS1KEUvjm9Wz7FkeH",
+      "lpMint": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu",
+      "tokenVaultA": "2Dg5bpn9GzFo5GL7LDU1AdcEYq9zbs6X4sBbd53W44rZ",
+      "tokenVaultB": "GoeR8xVKTcSFnCL5FjzqTSDqQAi4KRZZyRxx73qXTgKZ",
+      "tokenA": "So11111111111111111111111111111111111111112",
+      "tokenB": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "decimalsA": 9,
+      "decimalsB": 6
+    }
+  ]
+  
+  
+  
+  
+  
+  
+  
